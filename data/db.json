@@ -1,19 +1,28 @@
 {
   "item": [
     {
-      "id": 1,
+      "id": "1",
       "checked": false,
-      "item": "Almonds, Unsalted, in the blue bag"
+      "item": "Almonds, Unsalted, in the blue bag",
+      "Checked": false
     },
     {
-      "id": 2,
+      "id": "2",
       "checked": false,
-      "item": "Pizza"
+      "item": "Pizza",
+      "Checked": false
     },
     {
-      "id": 3,
+      "id": "3",
       "checked": false,
-      "item": "Bread"
+      "item": "Bread",
+      "Checked": false
+    },
+    {
+      "id": "311",
+      "check": false,
+      "item": "Sushi",
+      "Checked": false
     }
   ]
 }
