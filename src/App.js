@@ -5,7 +5,7 @@ import AddItem from "./AddItems";
 import Content from "./constent";
 import Footer from "./Footer";
 import { useState, useEffect } from "react";
-import apiRequest from "./aoiRequest";
+import apiRequest from "./apiRequest";
 
 function App() {
   const API_URL = "http://localhost:3500/item";
