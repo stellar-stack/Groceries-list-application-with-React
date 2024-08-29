@@ -19,15 +19,9 @@
       "Checked": false
     },
     {
-      "id": "311",
+      "id": "31",
       "check": false,
-      "item": "Sushi",
-      "Checked": false
-    },
-    {
-      "id": "3111",
-      "check": false,
-      "item": "Suace"
+      "item": "Sauce"
     }
   ]
 }
